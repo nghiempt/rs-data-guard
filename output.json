@@ -1,0 +1,56 @@
+[
+    {
+        "app_pkg": "statusimages.makephotostatus",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726839751,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 395,
+                "completion_tokens": 16,
+                "total_tokens": 411
+            }
+        }
+    },
+    {
+        "app_pkg": "statusimages.makephotostatus",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726839751,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 395,
+                "completion_tokens": 16,
+                "total_tokens": 411
+            }
+        }
+    }
+]

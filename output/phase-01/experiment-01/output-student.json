@@ -1,0 +1,5002 @@
+[
+    {
+        "app_pkg": "statusimages.makephotostatus",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726839751,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 395,
+                "completion_tokens": 16,
+                "total_tokens": 411
+            }
+        }
+    },
+    {
+        "app_pkg": "statusimages.makephotostatus",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726839751,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 395,
+                "completion_tokens": 16,
+                "total_tokens": 411
+            }
+        }
+    },
+    {
+        "app_pkg": "fusion.developers.shirtdesign",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840688,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 366,
+                "completion_tokens": 15,
+                "total_tokens": 381
+            }
+        }
+    },
+    {
+        "app_pkg": "com.martianapps.birthdaycardmaker",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840692,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "Additional Data: {data_collected: [['usage_frequency', 'country', 'hardware_model', 'os_version']], data_shared: ['usage_frequency', 'country', 'hardware_model', 'os_version']}\n\n{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 367,
+                "completion_tokens": 74,
+                "total_tokens": 441
+            }
+        }
+    },
+    {
+        "app_pkg": "com.panalab.letters.pletter.Wallpaper",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840693,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct or Incorrect, label 2: Incomplete or Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 273,
+                "completion_tokens": 20,
+                "total_tokens": 293
+            }
+        }
+    },
+    {
+        "app_pkg": "com.panalab.letters.pletter.Wallpaper",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840693,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct or Incorrect, label 2: Incomplete or Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 273,
+                "completion_tokens": 20,
+                "total_tokens": 293
+            }
+        }
+    },
+    {
+        "app_pkg": "com.panalab.letters.zletter.Wallpaper",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840697,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 304,
+                "completion_tokens": 16,
+                "total_tokens": 320
+            }
+        }
+    },
+    {
+        "app_pkg": "net.nikkki.infinitezoom",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840699,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 288,
+                "completion_tokens": 16,
+                "total_tokens": 304
+            }
+        }
+    },
+    {
+        "app_pkg": "net.nikkki.infinitezoom",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840699,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 288,
+                "completion_tokens": 16,
+                "total_tokens": 304
+            }
+        }
+    },
+    {
+        "app_pkg": "com.stephaneginier.nomad",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840704,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 366,
+                "completion_tokens": 16,
+                "total_tokens": 382
+            }
+        }
+    },
+    {
+        "app_pkg": "com.jaytronix.markermagic",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840705,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 288,
+                "completion_tokens": 16,
+                "total_tokens": 304
+            }
+        }
+    },
+    {
+        "app_pkg": "com.jaytronix.markermagic",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840705,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 288,
+                "completion_tokens": 16,
+                "total_tokens": 304
+            }
+        }
+    },
+    {
+        "app_pkg": "com.zubieta.craze",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840708,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 341,
+                "completion_tokens": 15,
+                "total_tokens": 356
+            }
+        }
+    },
+    {
+        "app_pkg": "com.zubieta.craze",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840708,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 341,
+                "completion_tokens": 15,
+                "total_tokens": 356
+            }
+        }
+    },
+    {
+        "app_pkg": "com.diytech.drawsignature",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840713,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 373,
+                "completion_tokens": 15,
+                "total_tokens": 388
+            }
+        }
+    },
+    {
+        "app_pkg": "com.inglesdivino.vectorassetcreator",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840714,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 504,
+                "completion_tokens": 16,
+                "total_tokens": 520
+            }
+        }
+    },
+    {
+        "app_pkg": "com.raed.sketchbook",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840717,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 517,
+                "completion_tokens": 16,
+                "total_tokens": 533
+            }
+        }
+    },
+    {
+        "app_pkg": "com.logomaster.logomaker",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840719,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "label 1: Incorrect\nlabel 2: Incomplete"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 567,
+                "completion_tokens": 14,
+                "total_tokens": 581
+            }
+        }
+    },
+    {
+        "app_pkg": "com.simple.design.material",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840720,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 374,
+                "completion_tokens": 16,
+                "total_tokens": 390
+            }
+        }
+    },
+    {
+        "app_pkg": "com.onetap.bit8painter",
+        "category_name": "Art & Design",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840722,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 561,
+                "completion_tokens": 16,
+                "total_tokens": 577
+            }
+        }
+    },
+    {
+        "app_pkg": "com.VideobirdStudio.SelfieExpertPhotoPerfect",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840723,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 408,
+                "completion_tokens": 16,
+                "total_tokens": 424
+            }
+        }
+    },
+    {
+        "app_pkg": "kynguyen.app.mirror",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840724,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 423,
+                "completion_tokens": 15,
+                "total_tokens": 438
+            }
+        }
+    },
+    {
+        "app_pkg": "com.kirill.filippov.android.hairkeeper",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840726,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Complete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 252,
+                "completion_tokens": 14,
+                "total_tokens": 266
+            }
+        }
+    },
+    {
+        "app_pkg": "com.kirill.filippov.android.hairkeeper",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840726,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Complete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 252,
+                "completion_tokens": 14,
+                "total_tokens": 266
+            }
+        }
+    },
+    {
+        "app_pkg": "com.ginchugames.ghostsurgery",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840728,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 335,
+                "completion_tokens": 16,
+                "total_tokens": 351
+            }
+        }
+    },
+    {
+        "app_pkg": "com.ginchugames.ghostsurgery",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840728,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 335,
+                "completion_tokens": 16,
+                "total_tokens": 351
+            }
+        }
+    },
+    {
+        "app_pkg": "com.stylestudio.hairstyle.stepbystep",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840731,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 376,
+                "completion_tokens": 16,
+                "total_tokens": 392
+            }
+        }
+    },
+    {
+        "app_pkg": "com.babe.bliss.studio.Chic.Baby.Girl.Day.Care.Game",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840732,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect or Correct, label 2: Incomplete or Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 363,
+                "completion_tokens": 20,
+                "total_tokens": 383
+            }
+        }
+    },
+    {
+        "app_pkg": "com.babe.bliss.studio.Chic.Baby.Girl.Day.Care.Game",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840732,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect or Correct, label 2: Incomplete or Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 363,
+                "completion_tokens": 20,
+                "total_tokens": 383
+            }
+        }
+    },
+    {
+        "app_pkg": "com.roorahas",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840734,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 406,
+                "completion_tokens": 16,
+                "total_tokens": 422
+            }
+        }
+    },
+    {
+        "app_pkg": "id.photo.effect.tiktok",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840737,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 502,
+                "completion_tokens": 16,
+                "total_tokens": 518
+            }
+        }
+    },
+    {
+        "app_pkg": "com.northpark.beautycamera",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840738,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 661,
+                "completion_tokens": 14,
+                "total_tokens": 675
+            }
+        }
+    },
+    {
+        "app_pkg": "com.wiki.video.background.changer.remover.pro.vidbgchanger",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840740,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 686,
+                "completion_tokens": 16,
+                "total_tokens": 702
+            }
+        }
+    },
+    {
+        "app_pkg": "com.skapps.mehndidesign2020",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840741,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 391,
+                "completion_tokens": 15,
+                "total_tokens": 406
+            }
+        }
+    },
+    {
+        "app_pkg": "smartgr.blonde.hair",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840742,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 408,
+                "completion_tokens": 14,
+                "total_tokens": 422
+            }
+        }
+    },
+    {
+        "app_pkg": "com.BeautifulMakeup.MobileDevAppLtd",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840744,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 339,
+                "completion_tokens": 16,
+                "total_tokens": 355
+            }
+        }
+    },
+    {
+        "app_pkg": "com.BeautifulMakeup.MobileDevAppLtd",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840744,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 339,
+                "completion_tokens": 16,
+                "total_tokens": 355
+            }
+        }
+    },
+    {
+        "app_pkg": "com.ronie.fairnesstips",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840746,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 347,
+                "completion_tokens": 16,
+                "total_tokens": 363
+            }
+        }
+    },
+    {
+        "app_pkg": "com.ronie.fairnesstips",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840746,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 347,
+                "completion_tokens": 16,
+                "total_tokens": 363
+            }
+        }
+    },
+    {
+        "app_pkg": "com.newandromo.dev728180.app984777",
+        "category_name": "Beauty",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840748,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 551,
+                "completion_tokens": 15,
+                "total_tokens": 566
+            }
+        }
+    },
+    {
+        "app_pkg": "com.quran.labs.androidquran",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840749,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 571,
+                "completion_tokens": 15,
+                "total_tokens": 586
+            }
+        }
+    },
+    {
+        "app_pkg": "com.balzan2018.aduana_de_Cuba_ultimas_noticias_2018",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840751,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 411,
+                "completion_tokens": 16,
+                "total_tokens": 427
+            }
+        }
+    },
+    {
+        "app_pkg": "com.dailyverses",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840752,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 438,
+                "completion_tokens": 16,
+                "total_tokens": 454
+            }
+        }
+    },
+    {
+        "app_pkg": "com.moonstarinc.tessera",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840757,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 499,
+                "completion_tokens": 16,
+                "total_tokens": 515
+            }
+        }
+    },
+    {
+        "app_pkg": "br.com.casaopen.bibleBilingualSpanishEnglish",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840758,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 569,
+                "completion_tokens": 16,
+                "total_tokens": 585
+            }
+        }
+    },
+    {
+        "app_pkg": "br.com.casaopen.emojibible",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840760,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 553,
+                "completion_tokens": 16,
+                "total_tokens": 569
+            }
+        }
+    },
+    {
+        "app_pkg": "com.quyet.dtdauto.motodata",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840763,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 373,
+                "completion_tokens": 16,
+                "total_tokens": 389
+            }
+        }
+    },
+    {
+        "app_pkg": "net.blackenvelope.write.dingbats",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840764,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 787,
+                "completion_tokens": 15,
+                "total_tokens": 802
+            }
+        }
+    },
+    {
+        "app_pkg": "com.happyinfotech.sukhmanisahib",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840766,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1:m [ ], label 2:Incomplete }"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 415,
+                "completion_tokens": 16,
+                "total_tokens": 431
+            }
+        }
+    },
+    {
+        "app_pkg": "com.smogon.dex",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840767,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 358,
+                "completion_tokens": 16,
+                "total_tokens": 374
+            }
+        }
+    },
+    {
+        "app_pkg": "com.appactiva.jwtextodiariovideos",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840769,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label1: Complete, label2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 508,
+                "completion_tokens": 13,
+                "total_tokens": 521
+            }
+        }
+    },
+    {
+        "app_pkg": "br.com.casaopen.hebrewbibletanakh",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840771,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 622,
+                "completion_tokens": 16,
+                "total_tokens": 638
+            }
+        }
+    },
+    {
+        "app_pkg": "com.jtdic.jtdicapp",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840772,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Invalid, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 708,
+                "completion_tokens": 15,
+                "total_tokens": 723
+            }
+        }
+    },
+    {
+        "app_pkg": "com.haymarsan.dhammapiya",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840773,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "Label 1: Correct, Label 2: Complete"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1124,
+                "completion_tokens": 12,
+                "total_tokens": 1136
+            }
+        }
+    },
+    {
+        "app_pkg": "com.play.nrv60app",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840775,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{\n  \"label 1\": \"Incorrect\",\n  \"label 2\": \"Incomplete\"\n}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 481,
+                "completion_tokens": 26,
+                "total_tokens": 507
+            }
+        }
+    },
+    {
+        "app_pkg": "com.eAlimTech.Quran",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840776,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 557,
+                "completion_tokens": 14,
+                "total_tokens": 571
+            }
+        }
+    },
+    {
+        "app_pkg": "com.thirumurai.thevarambook",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840777,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 679,
+                "completion_tokens": 15,
+                "total_tokens": 694
+            }
+        }
+    },
+    {
+        "app_pkg": "com.holy.bible.verses.biblegateway",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840779,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 256,
+                "completion_tokens": 15,
+                "total_tokens": 271
+            }
+        }
+    },
+    {
+        "app_pkg": "com.wordreference",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840780,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 679,
+                "completion_tokens": 15,
+                "total_tokens": 694
+            }
+        }
+    },
+    {
+        "app_pkg": "com.androidappsvilla.duaemasuraurdu",
+        "category_name": "Books & Reference",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840782,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 665,
+                "completion_tokens": 15,
+                "total_tokens": 680
+            }
+        }
+    },
+    {
+        "app_pkg": "com.vineretail.main",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840783,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 591,
+                "completion_tokens": 15,
+                "total_tokens": 606
+            }
+        }
+    },
+    {
+        "app_pkg": "com.jazz.jazzworld",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840784,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 281,
+                "completion_tokens": 16,
+                "total_tokens": 297
+            }
+        }
+    },
+    {
+        "app_pkg": "com.autoxloo.simcasts.marketplace",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840786,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 219,
+                "completion_tokens": 16,
+                "total_tokens": 235
+            }
+        }
+    },
+    {
+        "app_pkg": "com.issworld.wex.barclays",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840787,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 290,
+                "completion_tokens": 16,
+                "total_tokens": 306
+            }
+        }
+    },
+    {
+        "app_pkg": "com.issworld.au.myiss.app",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840788,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 489,
+                "completion_tokens": 16,
+                "total_tokens": 505
+            }
+        }
+    },
+    {
+        "app_pkg": "com.office.viewer.wordoffice.docxreader.officetool2019.documentviewer.pdf",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840789,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 408,
+                "completion_tokens": 15,
+                "total_tokens": 423
+            }
+        }
+    },
+    {
+        "app_pkg": "io.greenscreens.terminal",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840790,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{Label 1: Correct, Label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 336,
+                "completion_tokens": 15,
+                "total_tokens": 351
+            }
+        }
+    },
+    {
+        "app_pkg": "com.hcmtogo.workforceready",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840792,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 803,
+                "completion_tokens": 14,
+                "total_tokens": 817
+            }
+        }
+    },
+    {
+        "app_pkg": "com.kronos.workforceready",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840793,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incorrect}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 489,
+                "completion_tokens": 15,
+                "total_tokens": 504
+            }
+        }
+    },
+    {
+        "app_pkg": "com.verizon.onetalk",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840794,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 326,
+                "completion_tokens": 15,
+                "total_tokens": 341
+            }
+        }
+    },
+    {
+        "app_pkg": "com.cfi.driverapp",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840795,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 315,
+                "completion_tokens": 14,
+                "total_tokens": 329
+            }
+        }
+    },
+    {
+        "app_pkg": "com.ubs.mobilepass",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840798,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, Label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 360,
+                "completion_tokens": 16,
+                "total_tokens": 376
+            }
+        }
+    },
+    {
+        "app_pkg": "com.glip.mobile",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840800,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 875,
+                "completion_tokens": 15,
+                "total_tokens": 890
+            }
+        }
+    },
+    {
+        "app_pkg": "com.cribasoft.HoursTrackerFree.Android",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840803,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 650,
+                "completion_tokens": 14,
+                "total_tokens": 664
+            }
+        }
+    },
+    {
+        "app_pkg": "com.saba.spc",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840804,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "Label 1: Correct\nLabel 2: Complete"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 685,
+                "completion_tokens": 12,
+                "total_tokens": 697
+            }
+        }
+    },
+    {
+        "app_pkg": "my.ssm.ssmappmobile",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840805,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 842,
+                "completion_tokens": 16,
+                "total_tokens": 858
+            }
+        }
+    },
+    {
+        "app_pkg": "nextapp.fx",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840806,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Complete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 377,
+                "completion_tokens": 14,
+                "total_tokens": 391
+            }
+        }
+    },
+    {
+        "app_pkg": "com.proxmox.app.pve_flutter_frontend",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840808,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 439,
+                "completion_tokens": 15,
+                "total_tokens": 454
+            }
+        }
+    },
+    {
+        "app_pkg": "com.piksoft.turboscan.free",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840810,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 595,
+                "completion_tokens": 14,
+                "total_tokens": 609
+            }
+        }
+    },
+    {
+        "app_pkg": "com.epson.tmutility",
+        "category_name": "Business",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840815,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 329,
+                "completion_tokens": 15,
+                "total_tokens": 344
+            }
+        }
+    },
+    {
+        "app_pkg": "com.telekom.telekomme",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840816,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1021,
+                "completion_tokens": 15,
+                "total_tokens": 1036
+            }
+        }
+    },
+    {
+        "app_pkg": "com.lineagemitem.app",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840818,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 470,
+                "completion_tokens": 16,
+                "total_tokens": 486
+            }
+        }
+    },
+    {
+        "app_pkg": "com.afrihost.adslbandwidthmonitor",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840820,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 757,
+                "completion_tokens": 16,
+                "total_tokens": 773
+            }
+        }
+    },
+    {
+        "app_pkg": "kr.go.safepeople",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840821,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 409,
+                "completion_tokens": 16,
+                "total_tokens": 425
+            }
+        }
+    },
+    {
+        "app_pkg": "plus.ride.huluchat",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840824,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 370,
+                "completion_tokens": 15,
+                "total_tokens": 385
+            }
+        }
+    },
+    {
+        "app_pkg": "nava.apps.eziercall",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840826,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 675,
+                "completion_tokens": 15,
+                "total_tokens": 690
+            }
+        }
+    },
+    {
+        "app_pkg": "com.DeltaCygniLabs.Pointr",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840827,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 533,
+                "completion_tokens": 16,
+                "total_tokens": 549
+            }
+        }
+    },
+    {
+        "app_pkg": "com.norwood.sparkvm",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840829,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 834,
+                "completion_tokens": 16,
+                "total_tokens": 850
+            }
+        }
+    },
+    {
+        "app_pkg": "com.verizon.messaging.vzmsgs",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840830,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 906,
+                "completion_tokens": 16,
+                "total_tokens": 922
+            }
+        }
+    },
+    {
+        "app_pkg": "com.verizon.pushtotalkplus",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840832,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 702,
+                "completion_tokens": 16,
+                "total_tokens": 718
+            }
+        }
+    },
+    {
+        "app_pkg": "com.lonelycatgames.PM",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840834,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 511,
+                "completion_tokens": 15,
+                "total_tokens": 526
+            }
+        }
+    },
+    {
+        "app_pkg": "com.wMetroopinionSurveyRewards_14978455",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840837,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 589,
+                "completion_tokens": 15,
+                "total_tokens": 604
+            }
+        }
+    },
+    {
+        "app_pkg": "com.cm.samajapp",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840839,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 531,
+                "completion_tokens": 15,
+                "total_tokens": 546
+            }
+        }
+    },
+    {
+        "app_pkg": "mobi.klapp.parent",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840842,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 766,
+                "completion_tokens": 15,
+                "total_tokens": 781
+            }
+        }
+    },
+    {
+        "app_pkg": "com.segra.segramobileunify",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840843,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 490,
+                "completion_tokens": 15,
+                "total_tokens": 505
+            }
+        }
+    },
+    {
+        "app_pkg": "com.letipwired.mobile",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840845,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Complete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 634,
+                "completion_tokens": 15,
+                "total_tokens": 649
+            }
+        }
+    },
+    {
+        "app_pkg": "com.irescuesos",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840848,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 358,
+                "completion_tokens": 16,
+                "total_tokens": 374
+            }
+        }
+    },
+    {
+        "app_pkg": "com.irewardsindia.rasiseedapp",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840849,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 499,
+                "completion_tokens": 15,
+                "total_tokens": 514
+            }
+        }
+    },
+    {
+        "app_pkg": "com.comcast.business.voiceedge",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840850,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 554,
+                "completion_tokens": 16,
+                "total_tokens": 570
+            }
+        }
+    },
+    {
+        "app_pkg": "jessy.drop.call",
+        "category_name": "Communication",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840851,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "Not enough data provided to determine the labels."
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 294,
+                "completion_tokens": 10,
+                "total_tokens": 304
+            }
+        }
+    },
+    {
+        "app_pkg": "com.helloskip",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840853,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1445,
+                "completion_tokens": 14,
+                "total_tokens": 1459
+            }
+        }
+    },
+    {
+        "app_pkg": "com.mls.nets.reader",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840855,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 701,
+                "completion_tokens": 16,
+                "total_tokens": 717
+            }
+        }
+    },
+    {
+        "app_pkg": "com.dyson.mobile.android",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840856,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 769,
+                "completion_tokens": 15,
+                "total_tokens": 784
+            }
+        }
+    },
+    {
+        "app_pkg": "kr.gogovan.android.gogodriver",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840857,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2:Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 460,
+                "completion_tokens": 16,
+                "total_tokens": 476
+            }
+        }
+    },
+    {
+        "app_pkg": "uk.co.brightec.ziffit",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840859,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{\n  \"label 1\": \"Incorrect\",\n  \"label 2\": \"Incomplete\"\n}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1200,
+                "completion_tokens": 26,
+                "total_tokens": 1226
+            }
+        }
+    },
+    {
+        "app_pkg": "com.samsung.android.oneconnect",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840860,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 802,
+                "completion_tokens": 16,
+                "total_tokens": 818
+            }
+        }
+    },
+    {
+        "app_pkg": "com.zikrapp",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840862,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 385,
+                "completion_tokens": 16,
+                "total_tokens": 401
+            }
+        }
+    },
+    {
+        "app_pkg": "com.ilifesmart.mslict_gp",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840863,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 312,
+                "completion_tokens": 16,
+                "total_tokens": 328
+            }
+        }
+    },
+    {
+        "app_pkg": "app.abrajnow.com",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840865,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 688,
+                "completion_tokens": 15,
+                "total_tokens": 703
+            }
+        }
+    },
+    {
+        "app_pkg": "au.com.carsales",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840866,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1066,
+                "completion_tokens": 15,
+                "total_tokens": 1081
+            }
+        }
+    },
+    {
+        "app_pkg": "qlocker.gesture",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840868,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 521,
+                "completion_tokens": 15,
+                "total_tokens": 536
+            }
+        }
+    },
+    {
+        "app_pkg": "rooh.apps.naaz.com.quran.text.translation.audio",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840869,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 609,
+                "completion_tokens": 16,
+                "total_tokens": 625
+            }
+        }
+    },
+    {
+        "app_pkg": "com.Anime.Avatar.Creator.Vex",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840872,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1020,
+                "completion_tokens": 15,
+                "total_tokens": 1035
+            }
+        }
+    },
+    {
+        "app_pkg": "com.hemisphere3.tarot",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840873,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 621,
+                "completion_tokens": 15,
+                "total_tokens": 636
+            }
+        }
+    },
+    {
+        "app_pkg": "me.nanoleaf.nanoleaf",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840875,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 710,
+                "completion_tokens": 15,
+                "total_tokens": 725
+            }
+        }
+    },
+    {
+        "app_pkg": "com.casio.wac_app",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840876,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "Label 1: Correct, Label 2: Complete"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1160,
+                "completion_tokens": 12,
+                "total_tokens": 1172
+            }
+        }
+    },
+    {
+        "app_pkg": "com.casio.gshockmove",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840877,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 816,
+                "completion_tokens": 16,
+                "total_tokens": 832
+            }
+        }
+    },
+    {
+        "app_pkg": "com.casio.gshockconnected",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840878,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 616,
+                "completion_tokens": 16,
+                "total_tokens": 632
+            }
+        }
+    },
+    {
+        "app_pkg": "com.GameKore.RealFlashLight",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840880,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 684,
+                "completion_tokens": 15,
+                "total_tokens": 699
+            }
+        }
+    },
+    {
+        "app_pkg": "info.alqiblah.taqwim",
+        "category_name": "Lifestyle",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840882,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 577,
+                "completion_tokens": 15,
+                "total_tokens": 592
+            }
+        }
+    },
+    {
+        "app_pkg": "com.surmin.pinstaphoto",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840884,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Correct}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 678,
+                "completion_tokens": 15,
+                "total_tokens": 693
+            }
+        }
+    },
+    {
+        "app_pkg": "com.motioncam",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840886,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 272,
+                "completion_tokens": 15,
+                "total_tokens": 287
+            }
+        }
+    },
+    {
+        "app_pkg": "com.luck.photoeditornewversion",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840779,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 256,
+                "completion_tokens": 15,
+                "total_tokens": 271
+            }
+        }
+    },
+    {
+        "app_pkg": "com.bluefishapp.blureffect",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840888,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 866,
+                "completion_tokens": 16,
+                "total_tokens": 882
+            }
+        }
+    },
+    {
+        "app_pkg": "com.bluefishapp.cutpaste",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840890,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 857,
+                "completion_tokens": 15,
+                "total_tokens": 872
+            }
+        }
+    },
+    {
+        "app_pkg": "com.judi.autoblur",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840892,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 339,
+                "completion_tokens": 14,
+                "total_tokens": 353
+            }
+        }
+    },
+    {
+        "app_pkg": "com.judi.collagemaker.layout",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840893,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 356,
+                "completion_tokens": 15,
+                "total_tokens": 371
+            }
+        }
+    },
+    {
+        "app_pkg": "com.rqrapps.backgroundchanger.changephotobackground",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840894,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "Label 1: Correct, Label 2: Incomplete"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 308,
+                "completion_tokens": 13,
+                "total_tokens": 321
+            }
+        }
+    },
+    {
+        "app_pkg": "com.neximolabs.droidtimelapsepro",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840895,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 320,
+                "completion_tokens": 15,
+                "total_tokens": 335
+            }
+        }
+    },
+    {
+        "app_pkg": "com.Nishant.Singh.DroidTimelapse",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840899,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 299,
+                "completion_tokens": 15,
+                "total_tokens": 314
+            }
+        }
+    },
+    {
+        "app_pkg": "com.dfm.photo3d",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840900,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 504,
+                "completion_tokens": 16,
+                "total_tokens": 520
+            }
+        }
+    },
+    {
+        "app_pkg": "nexadeal.babyframe.meandmomphotoframe",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840902,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 316,
+                "completion_tokens": 15,
+                "total_tokens": 331
+            }
+        }
+    },
+    {
+        "app_pkg": "com.perracolabs.cpd",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840903,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 320,
+                "completion_tokens": 15,
+                "total_tokens": 335
+            }
+        }
+    },
+    {
+        "app_pkg": "com.CameraFlash",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840905,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 850,
+                "completion_tokens": 15,
+                "total_tokens": 865
+            }
+        }
+    },
+    {
+        "app_pkg": "com.wishant.newbestphotoeditor2018",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840906,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 482,
+                "completion_tokens": 16,
+                "total_tokens": 498
+            }
+        }
+    },
+    {
+        "app_pkg": "com.realzhang.makeup",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840907,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 290,
+                "completion_tokens": 15,
+                "total_tokens": 305
+            }
+        }
+    },
+    {
+        "app_pkg": "com.sharinganeyes.sharingancamera.sharinganphotoeditor",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840908,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 760,
+                "completion_tokens": 14,
+                "total_tokens": 774
+            }
+        }
+    },
+    {
+        "app_pkg": "com.fantasticapps.wild.photo.frames",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840910,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 272,
+                "completion_tokens": 16,
+                "total_tokens": 288
+            }
+        }
+    },
+    {
+        "app_pkg": "com.fantasticapps.funnyfaco.funia.face.changer",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840911,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 299,
+                "completion_tokens": 15,
+                "total_tokens": 314
+            }
+        }
+    },
+    {
+        "app_pkg": "com.inglesdivino.blurimage",
+        "category_name": "Photography",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840912,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Complete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 510,
+                "completion_tokens": 14,
+                "total_tokens": 524
+            }
+        }
+    },
+    {
+        "app_pkg": "com.nespresso.activities",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840915,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 363,
+                "completion_tokens": 15,
+                "total_tokens": 378
+            }
+        }
+    },
+    {
+        "app_pkg": "com.nespresso.activities",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840915,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 363,
+                "completion_tokens": 15,
+                "total_tokens": 378
+            }
+        }
+    },
+    {
+        "app_pkg": "com.qvcuk",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840918,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{\n  \"Label 1\": \"Correct\",\n  \"Label 2\": \"Complete\"\n}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1790,
+                "completion_tokens": 25,
+                "total_tokens": 1815
+            }
+        }
+    },
+    {
+        "app_pkg": "com.pixiegypt.app",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840920,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 396,
+                "completion_tokens": 16,
+                "total_tokens": 412
+            }
+        }
+    },
+    {
+        "app_pkg": "com.recharge.app.prod",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840923,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1303,
+                "completion_tokens": 15,
+                "total_tokens": 1318
+            }
+        }
+    },
+    {
+        "app_pkg": "com.snapdeal.main",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840925,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{Label 1: Correct, Label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1910,
+                "completion_tokens": 14,
+                "total_tokens": 1924
+            }
+        }
+    },
+    {
+        "app_pkg": "com.zebit.market",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840926,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Complete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1406,
+                "completion_tokens": 14,
+                "total_tokens": 1420
+            }
+        }
+    },
+    {
+        "app_pkg": "uk.co.adsar.adam.bidhero",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840927,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 419,
+                "completion_tokens": 15,
+                "total_tokens": 434
+            }
+        }
+    },
+    {
+        "app_pkg": "co.ke.tradepoint",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840929,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 629,
+                "completion_tokens": 15,
+                "total_tokens": 644
+            }
+        }
+    },
+    {
+        "app_pkg": "com.boots.flagship.android",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840931,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1425,
+                "completion_tokens": 15,
+                "total_tokens": 1440
+            }
+        }
+    },
+    {
+        "app_pkg": "com.flambu.android",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840932,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1326,
+                "completion_tokens": 14,
+                "total_tokens": 1340
+            }
+        }
+    },
+    {
+        "app_pkg": "com.disney.disneystore_goo",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840934,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{\n  \"label 1\": \"Incorrect\",\n  \"label 2\": \"Complete\"\n}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 999,
+                "completion_tokens": 25,
+                "total_tokens": 1024
+            }
+        }
+    },
+    {
+        "app_pkg": "com.bikroy",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840935,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 496,
+                "completion_tokens": 15,
+                "total_tokens": 511
+            }
+        }
+    },
+    {
+        "app_pkg": "de.apptiv.business.android.aldi_uk",
+        "category_name": "Shopping",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840939,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Correct}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 816,
+                "completion_tokens": 14,
+                "total_tokens": 830
+            }
+        }
+    },
+    {
+        "app_pkg": "com.vipon",
+        "category_name": "Shopping",
+        "api_response": {
+            "error": "Failed to get response for com.vipon, status code: 424"
+        }
+    },
+    {
+        "app_pkg": "com.vipon",
+        "category_name": "Shopping",
+        "api_response": {
+            "error": "Failed to get response for com.vipon, status code: 424"
+        }
+    },
+    {
+        "app_pkg": "com.voghion.app",
+        "category_name": "Shopping",
+        "api_response": {
+            "error": "Failed to get response for com.voghion.app, status code: 424"
+        }
+    },
+    {
+        "app_pkg": "com.voghion.app",
+        "category_name": "Shopping",
+        "api_response": {
+            "error": "Failed to get response for com.voghion.app, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "appetite.bludottechnologies.com",
+        "category_name": "Shopping",
+        "api_response": {
+            "error": "Failed to get response for appetite.bludottechnologies.com, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.dealdash",
+        "category_name": "Shopping",
+        "api_response": {
+            "error": "Failed to get response for com.dealdash, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "aventaplus.si.bulbshare",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for aventaplus.si.bulbshare, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.iconichearts.senditig",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for com.iconichearts.senditig, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "org.joinmastodon.android",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for org.joinmastodon.android, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "stars.ph.community",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for stars.ph.community, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.tja",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for com.tja, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "storysaver.snapchat.snapchatstorydownloader",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for storysaver.snapchat.snapchatstorydownloader, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "storysaver.snapchat.snapchatstorydownloader",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for storysaver.snapchat.snapchatstorydownloader, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "gg.wasder.app",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for gg.wasder.app, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "net.logika.buzzerly",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for net.logika.buzzerly, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.lazygeniouz.saveit",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for com.lazygeniouz.saveit, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.bengalishaadi.android",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for com.bengalishaadi.android, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.buddhistshaadi.android",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for com.buddhistshaadi.android, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.tamilshaadi.android",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for com.tamilshaadi.android, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.kannadashaadi.android",
+        "category_name": "Social",
+        "api_response": {
+            "error": "Failed to get response for com.kannadashaadi.android, status code: 503"
+        }
+    },
+    {
+        "app_pkg": "com.odiashaadi.android",
+        "category_name": "Social",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840984,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 1676,
+                "completion_tokens": 14,
+                "total_tokens": 1690
+            }
+        }
+    },
+    {
+        "app_pkg": "com.funny.video.tiki.moj.snack",
+        "category_name": "Social",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840985,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 501,
+                "completion_tokens": 15,
+                "total_tokens": 516
+            }
+        }
+    },
+    {
+        "app_pkg": "com.chatroullete.alternative",
+        "category_name": "Social",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840987,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 969,
+                "completion_tokens": 16,
+                "total_tokens": 985
+            }
+        }
+    },
+    {
+        "app_pkg": "me.znaidy",
+        "category_name": "Social",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840990,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 689,
+                "completion_tokens": 16,
+                "total_tokens": 705
+            }
+        }
+    },
+    {
+        "app_pkg": "com.eortes2",
+        "category_name": "Social",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840991,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "Label 1: Incorrect, Incomplete, Complete, Incomplete\nLabel 2: Correct"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 621,
+                "completion_tokens": 21,
+                "total_tokens": 642
+            }
+        }
+    },
+    {
+        "app_pkg": "com.chaveirim.lakewoods.chaveirim",
+        "category_name": "Social",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840992,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 523,
+                "completion_tokens": 15,
+                "total_tokens": 538
+            }
+        }
+    },
+    {
+        "app_pkg": "pl.thecoder.huactrl",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840994,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Correct}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 286,
+                "completion_tokens": 15,
+                "total_tokens": 301
+            }
+        }
+    },
+    {
+        "app_pkg": "by4a.setedit22",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840996,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 263,
+                "completion_tokens": 16,
+                "total_tokens": 279
+            }
+        }
+    },
+    {
+        "app_pkg": "com.ultimaker.curaconnect",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726840998,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 217,
+                "completion_tokens": 16,
+                "total_tokens": 233
+            }
+        }
+    },
+    {
+        "app_pkg": "com.wo.voice2",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841000,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 702,
+                "completion_tokens": 16,
+                "total_tokens": 718
+            }
+        }
+    },
+    {
+        "app_pkg": "net.eztool.backbutton",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841001,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 281,
+                "completion_tokens": 15,
+                "total_tokens": 296
+            }
+        }
+    },
+    {
+        "app_pkg": "cn.adonet.proxyevery",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841002,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 279,
+                "completion_tokens": 16,
+                "total_tokens": 295
+            }
+        }
+    },
+    {
+        "app_pkg": "com.vzw.hss.myverizon",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841004,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 965,
+                "completion_tokens": 15,
+                "total_tokens": 980
+            }
+        }
+    },
+    {
+        "app_pkg": "com.screencast",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841006,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Complete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 335,
+                "completion_tokens": 14,
+                "total_tokens": 349
+            }
+        }
+    },
+    {
+        "app_pkg": "com.google.android.apps.playconsole",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841007,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect or Complete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 682,
+                "completion_tokens": 18,
+                "total_tokens": 700
+            }
+        }
+    },
+    {
+        "app_pkg": "com.chatrmobile.mychatrapp",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841008,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 315,
+                "completion_tokens": 15,
+                "total_tokens": 330
+            }
+        }
+    },
+    {
+        "app_pkg": "com.neximolabs.blackr",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841009,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 346,
+                "completion_tokens": 14,
+                "total_tokens": 360
+            }
+        }
+    },
+    {
+        "app_pkg": "com.lonelycatgames.Xplore",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841011,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct\n Label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 782,
+                "completion_tokens": 14,
+                "total_tokens": 796
+            }
+        }
+    },
+    {
+        "app_pkg": "com.tohsoft.app.locker.applock",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841015,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 397,
+                "completion_tokens": 16,
+                "total_tokens": 413
+            }
+        }
+    },
+    {
+        "app_pkg": "com.a0soft.gphone.acc.free",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841016,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 458,
+                "completion_tokens": 15,
+                "total_tokens": 473
+            }
+        }
+    },
+    {
+        "app_pkg": "com.a0soft.gphone.bfont",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841017,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 519,
+                "completion_tokens": 16,
+                "total_tokens": 535
+            }
+        }
+    },
+    {
+        "app_pkg": "com.a0soft.gphone.app2sd",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841019,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incorrect, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 635,
+                "completion_tokens": 16,
+                "total_tokens": 651
+            }
+        }
+    },
+    {
+        "app_pkg": "com.deepakpk.tvexplorer",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841021,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Complete, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 356,
+                "completion_tokens": 15,
+                "total_tokens": 371
+            }
+        }
+    },
+    {
+        "app_pkg": "org.vndnguyen.shortcutmaster.lite",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841023,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Incomplete, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 310,
+                "completion_tokens": 15,
+                "total_tokens": 325
+            }
+        }
+    },
+    {
+        "app_pkg": "com.cgutman.androidremotedebugger",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841024,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Incomplete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 316,
+                "completion_tokens": 15,
+                "total_tokens": 331
+            }
+        }
+    },
+    {
+        "app_pkg": "com.vrem.wifianalyzer",
+        "category_name": "Tools",
+        "api_response": {
+            "object": "chat.completion",
+            "id": "",
+            "created": 1726841025,
+            "model": "microsoft/Phi-3-mini-4k-instruct",
+            "system_fingerprint": "2.2.1-dev0-sha-26a699a",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "{label 1: Correct, label 2: Complete}"
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 327,
+                "completion_tokens": 14,
+                "total_tokens": 341
+            }
+        }
+    }
+]
