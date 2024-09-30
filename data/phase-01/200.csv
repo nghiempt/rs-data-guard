@@ -1,0 +1,5 @@
+app_id,app_pkg,category_name,data_safety_content,privacy_policy_content,label_one_s,label_two_s
+1,statusimages.makephotostatus,Art & Design,"{'data_shared': [], 'data_collected': [], 'security_practices': [{'category': 'Data is encrypted in transit', 'sub_info': []}, {'category': 'Data can?t be deleted', 'sub_info': []}]}","Data Share:
+We permit third-party corporations to serve ads and gather specific anonymous information upon your visit to our application. These companies may utilize this anonymous information ? including your Google Advertising ID, device type and version, browsing habits, location, and other device-related technical data ? in order to serve advertisements.
+Data Collect:
+Our Applications, Services, and Site may access third-party information, such as your social media account information, through application interfaces. This policy, however, doesn't cover the privacy practices of websites operated by third parties, irrespective of whether they are linked to or accessible from our Application, Services, or Site. We are not accountable for their privacy practices.",Incorrect,Unknown
