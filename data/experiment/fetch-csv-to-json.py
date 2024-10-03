@@ -18,7 +18,7 @@ def csv_to_json(csv_file):
             },
             {
                 "role": "user",
-                "content": '''Based on the content of the Data Safety and Privacy Policy. Please label according to the following rule:\n>Label 1: Incorrect if the content is mentioned in Data Safety but not in the Privacy Policy. Correct if the content is mentioned in both documents.\n>Label 2: Incomplete if the content is mentioned in Data Safety but not in the Privacy Policy. Complete if the content is mentioned in both documents.\nThe contents of the two documents are below.\n>Data Safety: '''+ row['data_safety_content'] +'''\n>Privacy Policy:\n''' + row['privacy_policy_content'] +''' \nNote: The shortest answer and no explanation needed, in the format: {label 1: Incorrect or Correct, label 2: Incomplete or Complete}'''
+                "content": "Based on the content of the Data Safety and Privacy Policy. Please label according to the following rule:\n>Label 1: Incorrect if the content is mentioned in Data Safety but not in the Privacy Policy. Correct if the content is mentioned in both documents.\n>Label 2: Incomplete if the content is mentioned in Data Safety but not in the Privacy Policy. Complete if the content is mentioned in both documents.\nThe contents of the two documents are below.\n>Data Safety: "+ row['data_safety_content'] +"\n>Privacy Policy:\n" + row['privacy_policy_content'] +" \nNote: The shortest answer and no explanation needed, in the format: {label 1: Incorrect or Correct, label 2: Incomplete or Complete}"
             },
             {
                 "role": "assistant",
