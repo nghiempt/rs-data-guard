@@ -3,6 +3,7 @@ import csv
 import os
 import json
 import aiohttp
+import asyncio
 from dotenv import load_dotenv
 
 class HANDLER:
@@ -13,15 +14,14 @@ class HANDLER:
         return "\n".join(cleaned_lines)
 
     @staticmethod
-    async def call_api_student(data_safety_content, privacy_policy_content):
+    async def call_api_student(data_safety_content, privacy_policy_content, retries=3, delay=5):
         url = "https://api-inference.huggingface.co/models/microsoft/Phi-3-mini-4k-instruct/v1/chat/completions"
         
         headers = {
             "Authorization": f"Bearer {os.getenv('HUGGINGFACE_API_KEY')}",
             "Content-Type": "application/json"
         }
-
-        # Payload in the format provided by Postman
+        
         payload = json.dumps({
             "model": "microsoft/Phi-3-mini-4k-instruct",
             "messages": [
@@ -38,21 +38,32 @@ class HANDLER:
             "stream": False
         })
 
-        async with aiohttp.ClientSession() as session:
-            async with session.post(url, headers=headers, data=payload) as response:
-                # Check if the response content type is JSON
-                if response.headers['Content-Type'] == 'application/json':
-                    response_json = await response.json()
-                    if 'error' in response_json:
-                        return f"Error: {response_json['error']}"
+        timeout = aiohttp.ClientTimeout(total=60)  # Increase timeout to prevent premature failures
 
-                    # Extracting the content from the message in choices array
-                    content = response_json["choices"][0]["message"]["content"]
-                    return content
+        # Retry loop
+        for attempt in range(retries):
+            try:
+                async with aiohttp.ClientSession(timeout=timeout) as session:
+                    async with session.post(url, headers=headers, data=payload) as response:
+                        # Check if the response content type is JSON
+                        if response.headers['Content-Type'] == 'application/json':
+                            response_json = await response.json()
+                            if 'error' in response_json:
+                                return f"Error: {response_json['error']}"
+                            
+                            # Extracting the content from the message in choices array
+                            content = response_json["choices"][0]["message"]["content"]
+                            return content
+                        else:
+                            # If not JSON, read the response as text
+                            response_text = await response.text()
+                            return f"Unexpected response: {response_text}"
+            except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+                print(f"Attempt {attempt + 1} failed: {e}")
+                if attempt < retries - 1:
+                    await asyncio.sleep(delay)  # Wait before retrying
                 else:
-                    # If not JSON, read the response as text
-                    response_text = await response.text()
-                    return f"Unexpected response: {response_text}"
+                    return f"Error: Request failed after {retries} retries."
 
     @staticmethod
     async def loop_csv(input_csv_path, output_csv_path):
@@ -63,8 +74,10 @@ class HANDLER:
             reader = csv.reader(csvfile)
             writer = csv.writer(outputfile)
 
-            headers = next(reader)
-            writer.writerow(headers)
+            # Read the header from the input file and add the 'Result' column
+            header = next(reader)
+            header.append("Result")
+            writer.writerow(header)
 
             for index, row in enumerate(reader):
                 print(f"\n_____________ Run times {index + 1} <{row[0]}> _____________")
@@ -75,21 +88,23 @@ class HANDLER:
                 data_safety_content = row[3]
                 privacy_policy_content = row[4]
 
-                # Asynchronous API call
+                # Asynchronous API call with retry and timeout handling
                 assistant_reply = await HANDLER.call_api_student(data_safety_content, privacy_policy_content)
 
-                # Check for errors in the API response and write to CSV
+                # Append the assistant's reply to the row and write to CSV
                 if "Error" in assistant_reply:
-                    writer.writerow([app_id, app_pkg, data_safety_content, privacy_policy_content, "Error"])
+                    row.append("Error")
                 else:
-                    writer.writerow([app_id, app_pkg, data_safety_content, privacy_policy_content, assistant_reply])
-                
+                    row.append(assistant_reply)
+
+                writer.writerow(row)
+            
                 print("~~~~~~~~~~~~~~ Success ~~~~~~~~~~~~~~\n")
 
 async def main():
     load_dotenv()  # Load environment variables from .env file
-    input_csv_path = "data/phase-01/200v2.csv" 
-    output_csv_path = "output/phase-01/experiment-01/output-student.csv"
+    input_csv_path = "../../data/phase-01/200v2.csv" 
+    output_csv_path = "../../output/phase-01/experiment-01/output-student.csv"
 
     await HANDLER().loop_csv(input_csv_path, output_csv_path)
 
