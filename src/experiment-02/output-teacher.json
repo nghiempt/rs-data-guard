@@ -1,0 +1,167 @@
+[
+    {
+        "prompt_index": 1,
+        "prompt": "F",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 2,
+        "prompt": "i",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 3,
+        "prompt": "l",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 4,
+        "prompt": "e",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 5,
+        "prompt": " ",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 6,
+        "prompt": "n",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 7,
+        "prompt": "o",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 8,
+        "prompt": "t",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 9,
+        "prompt": " ",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 10,
+        "prompt": "f",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 11,
+        "prompt": "o",
+        "response": "Error"
+    },
+    {
+        "prompt_index": 1,
+        "prompt": "F",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 2,
+        "prompt": "i",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 3,
+        "prompt": "l",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 4,
+        "prompt": "e",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 5,
+        "prompt": " ",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 6,
+        "prompt": "n",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 7,
+        "prompt": "o",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 8,
+        "prompt": "t",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 9,
+        "prompt": " ",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 10,
+        "prompt": "f",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 11,
+        "prompt": "o",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 12,
+        "prompt": "u",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 13,
+        "prompt": "n",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 14,
+        "prompt": "d",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 15,
+        "prompt": ".",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 16,
+        "prompt": " ",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 17,
+        "prompt": "P",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 18,
+        "prompt": "l",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 19,
+        "prompt": "e",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 20,
+        "prompt": "a",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 1,
+        "prompt": "F",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    },
+    {
+        "prompt_index": 2,
+        "prompt": "i",
+        "response": "Error: {'message': \"Invalid type for 'messages': expected an array of objects, but got a string instead.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'invalid_type'}"
+    }
+]
